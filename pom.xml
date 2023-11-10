@@ -17,7 +17,7 @@
         <sonar.projectKey>project-lc_CI-ES</sonar.projectKey>
         <sonar.projectName>CI-ES</sonar.projectName>
         <sonar.tests>src/test/java</sonar.tests>
-        <sonar.sources>src/main/java</sonar.sources>
+        <sonar.sources>src/main/java/*</sonar.sources>
         <sonar.test.inclusions>**/*.java</sonar.test.inclusions>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
