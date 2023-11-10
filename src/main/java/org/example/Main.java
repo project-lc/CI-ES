@@ -8,6 +8,6 @@ public class Main {
     }
 
     public static void vai_VimoErro(){
-        Pessoa vaiquebrar = new Pessoa();
+        Pessoa vai_quebrar = new Pessoa("Lucas", "123");
     }
 }
